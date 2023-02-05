@@ -1,2 +1,2 @@
 # emoji-translator
-live project at [https://codesandbox.io/s/github/ansarimoosa99/emoji-translator]
+live project at [https://uwv9ig.csb.app/]
